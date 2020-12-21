@@ -1,0 +1,109 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CMakeRunConfigurationManager" shouldGenerate="true" shouldDeleteObsolete="true">
+    <generated>
+      <config projectName="project2" targetName="project2" />
+    </generated>
+  </component>
+  <component name="CMakeSettings" AUTO_RELOAD="true">
+    <configurations>
+      <configuration PROFILE_NAME="Debug" CONFIG_NAME="Debug" />
+    </configurations>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="f1621f28-9a39-43ff-83db-d980eb786f72" name="Default Changelist" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ClangdSettings">
+    <option name="formatViaClangd" value="false" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="CMakeBuildProfile:Debug" />
+  <component name="ProjectId" id="1WgYRbQJz4CFsTCLVwP4Bv9U2Tp" />
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="full.screen.before.presentation.mode" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="restartRequiresConfirmation" value="false" />
+    <property name="settings.editor.selected.configurable" value="preferences.customizations" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="CMake Application.project2">
+    <configuration name="LadderStudentFiles" type="CMakeRunConfiguration" factoryName="Application" PROGRAM_PARAMS="ladder_short_dictionary_data.txt ladder_start_target_pairs.txt" WORKING_DIR="file://$PROJECT_DIR$" PASS_PARENT_ENVS_2="true" PROJECT_NAME="project2" TARGET_NAME="LadderStudentFiles" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="project2" RUN_TARGET_NAME="LadderStudentFiles">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="project2" type="CMakeRunConfiguration" factoryName="Application" PROGRAM_PARAMS="sampleInputForMaze.txt" WORKING_DIR="file://$PROJECT_DIR$" PASS_PARENT_ENVS_2="true" PROJECT_NAME="project2" TARGET_NAME="project2" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="project2" RUN_TARGET_NAME="project2">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="CMake Application.LadderStudentFiles" />
+      <item itemvalue="CMake Application.project2" />
+    </list>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="f1621f28-9a39-43ff-83db-d980eb786f72" name="Default Changelist" comment="" />
+      <created>1579572697132</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1579572697132</updated>
+      <workItem from="1579572699012" duration="5194000" />
+      <workItem from="1597725564931" duration="148000" />
+      <workItem from="1597995220992" duration="75000" />
+      <workItem from="1597995403907" duration="2349000" />
+      <workItem from="1598034598348" duration="8482000" />
+      <workItem from="1598046792764" duration="7562000" />
+      <workItem from="1598123406162" duration="6693000" />
+      <workItem from="1598164509357" duration="269000" />
+      <workItem from="1598286659745" duration="7300000" />
+      <workItem from="1598550786257" duration="23232000" />
+      <workItem from="1598667096245" duration="24572000" />
+      <workItem from="1598738960573" duration="42000" />
+      <workItem from="1598739025785" duration="20915000" />
+      <workItem from="1598846813817" duration="536000" />
+      <workItem from="1598855510219" duration="1703000" />
+      <workItem from="1598902809274" duration="80000" />
+      <workItem from="1598918756689" duration="1061000" />
+      <workItem from="1598990737990" duration="32000" />
+      <workItem from="1599082589636" duration="35000" />
+      <workItem from="1599082650403" duration="21000" />
+      <workItem from="1599082683061" duration="6000" />
+      <workItem from="1599082759489" duration="16319000" />
+      <workItem from="1599164808764" duration="81000" />
+      <workItem from="1599204340741" duration="8853000" />
+      <workItem from="1599245886476" duration="20779000" />
+      <workItem from="1599354469054" duration="7600000" />
+      <workItem from="1599448015098" duration="7072000" />
+      <workItem from="1599691877931" duration="1631000" />
+      <workItem from="1599706466432" duration="232000" />
+      <workItem from="1599707242679" duration="94000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+</project>

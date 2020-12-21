@@ -1,0 +1,28 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/jsarraffe/Desktop/project2/Maze.cpp
+iostream
+-
+fstream
+-
+Maze.hpp
+/Users/jsarraffe/Desktop/project2/Maze.hpp
+
+/Users/jsarraffe/Desktop/project2/Maze.hpp
+iostream
+-
+fstream
+-
+vector
+-
+tuple
+-
+stack
+-
+
